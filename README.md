@@ -23,10 +23,10 @@ Checkout function with payment integration.
 
 ## Screenshots
 
-![App Screenshot](/SS Home.png)
-![App Screenshot](/SS Checkout.png)
-![App Screenshot](/SS Cart.png)
-![App Screenshot](/SS Orders.png)
+![App Screenshot](shopping/public/SSHome.png)
+![App Screenshot](shopping/public/SSCart)
+![App Screenshot](shopping/public/SSCheckout)
+![App Screenshot](shopping/public/SSOrders)
 
 
 
