@@ -1,3 +1,35 @@
+
+# Amazon Clone Web App
+
+An e-commerce web app intented to replicate amazon.It uses react hooks with context.
+
+[Click here to visit the web app](https://amazon-clone-25-elhsx7jq4-sanskar2001.vercel.app)
+
+
+## Built Using
+[React.js](https://reactjs.org/)
+
+[Firebase](https://firebase.google.com/)
+
+
+## Features
+Full e-commerce web app.
+
+Sign in Sign out with remember user feature.
+
+Add to cart Feature.
+
+Checkout function with payment integration.
+
+## Screenshots
+
+![App Screenshot](/SS Home.png)
+![App Screenshot](/SS Checkout.png)
+![App Screenshot](/SS Cart.png)
+![App Screenshot](/SS Orders.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
