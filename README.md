@@ -3,7 +3,7 @@
 
 An e-commerce web app intented to replicate amazon.It uses react hooks with context.
 
-[Click here to visit the web app](https://amazon-clone-25-elhsx7jq4-sanskar2001.vercel.app)
+[Click here to visit the web app](https://amazon-clone-25.vercel.app/)
 
 
 ## Built Using
